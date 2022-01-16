@@ -6,11 +6,13 @@ Tech Stack includes
 
 - MERN ( Mongo, Express, React, Node Js)
 - Python (django)
-- Solidity
+- Solidity (Truffle, Web3, Ganache)
 - C++
 - Sql 
 
 Got a message for me? send it to adamoabasstope@gmail.com.
+
+Thank you for dropping by😊
 
 
 [![Abass's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtope&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
