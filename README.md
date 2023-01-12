@@ -6,9 +6,12 @@ Tech Stack includes
 
 - MERN ( Mongo, Express, React, Node Js)
 - Python (django)
-- Solidity (Truffle, Web3, Ganache)
+- Web3
 - C++
+Database
 - Sql 
+- Mongo
+
 
 Got a message for me? send it to adamoabasstope@gmail.com.
 
