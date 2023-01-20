@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is Abass. I am a Machine Learning/ Software Engineer.
+My name is Abass. I am a Software/Machine Learning Engineer.
 
 Tech Stack includes
 
