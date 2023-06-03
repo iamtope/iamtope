@@ -6,7 +6,6 @@ Tech Stack includes
 
 - MERN ( Mongo, Express, React, Node Js)
 - Python (django)
-- Web3
 - C++
 - Sql 
 - Mongo
